@@ -1,6 +1,4 @@
-import sys
-import streamlit as st
+import subprocess
 
 if __name__ == '__main__':
-    sys.argv = ["streamlit", "run", "premix.py"]
-    sys.exit(st.main())
+    subprocess.run(["streamlit", "run", "premix.py"])
