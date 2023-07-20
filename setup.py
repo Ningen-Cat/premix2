@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name="premix",
     version="0.1.0",
-    url="https://github.com/giftmischer69/premix",
+    url="https://github.com/Ningen-Cat/premix2",
     author="giftmischer69",
     author_email="giftmischer69@pm.me",
     description="phonk remix maker",
